@@ -1,6 +1,6 @@
-### Hi there 👋
+c### Hi there 👋
 #### I am Samuel, A smart contract Developer
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greatsamist&show_icons=true&theme=vue-dark)  -[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=greatsamist&theme=vue-dark)](https://git.io/streak-stats)  - 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greatsamist&show_icons=true&theme=blue-green)  -[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=greatsamist&theme=vue-dark)](https://git.io/streak-stats)  - 
 - 🔭 I’m currently working on Smart Contracts
 - 🌱 I’m currently learning Solidity
 - 👯 I’m looking to collaborate on amazing and glorious Things
