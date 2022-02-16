@@ -1,12 +1,15 @@
 c### Hi there 👋
-#### I am Samuel, A smart contract Developer
+#### Samuel Ojo, A smart contract Developer
 - 🔭 I’m currently working on Smart Contracts
 - 🌱 I’m currently learning Solidity
-- 👯 I’m looking to collaborate on amazing and glorious Things
+- 🤹‍ Familiar with: ERC
+- 🎯 Currently working with: React, solidity, and JavaScript
 - 💬 Ask me about Blockchain Development
-- 📫 How to reach me: twitter.com/greatsamist
+- 🍜 Twitter: [@greatsamist](https://twitter.com/greatsamist)
+- 🍜 LinkedIn: [@samuelojooluwagbemiga](https://www.linkedin.com/in/samuelojooluwagbemiga/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: love travelling
+ 
 -  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greatsamist&show_icons=true&theme=blue-green)  -[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=greatsamist&theme=gotham)](https://git.io/streak-stats)  - 
 
 <!--
