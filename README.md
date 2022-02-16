@@ -1,4 +1,13 @@
 ### Hi there 👋
+#### I am Samuel, A smart contract Developer
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greatsamist&show_icons=true&theme=radical)  -[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=greatsamist&theme=vue-dark)](https://git.io/streak-stats)  - 
+- 🔭 I’m currently working on Smart Contracts
+- 🌱 I’m currently learning Solidity
+- 👯 I’m looking to collaborate on amazing and glorious Things
+- 💬 Ask me about Blockchain Development
+- 📫 How to reach me: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: ...
 
 <!--
 **greatsamist/greatsamist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
