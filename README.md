@@ -1,5 +1,6 @@
 c### Hi there 👋
-#### Samuel Ojo, A smart contract Developer
+#### You can call me Samuel.
+I'm a smart contract Developer
 - 🔭 I’m currently working on Smart Contracts
 - 🌱 I’m currently learning Solidity
 - 🤹‍ Familiar with: ERC
