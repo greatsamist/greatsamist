@@ -2,11 +2,10 @@ c### Hi there 👋
 #### You can call me Samuel.
 I'm a smart contract Developer
 - 🔭 I’m currently working on Smart Contracts
-- 🤹‍ Familiar with: ERC
-- 🎯 Currently working with: React, solidity, and JavaScript
+- 🎯 My stack: React, Solidity, JavaScript, TypeScript
 - 💬 Ask me about Blockchain Development
 - 🍜 Twitter: [@greatsamist](https://twitter.com/greatsamist)
-- 🍜 LinkedIn: [@samuelojooluwagbemiga](https://www.linkedin.com/in/samuelojooluwagbemiga/)
+- 🍜 LinkedIn: [@greatsamuelojo](https://www.linkedin.com/in/greatsamuelojo/)
 - ⚡ Fun fact: love travelling
  
 -  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greatsamist&show_icons=true&theme=blue-green)  -[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=greatsamist&theme=gotham)](https://git.io/streak-stats)  - 
