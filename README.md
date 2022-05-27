@@ -4,7 +4,7 @@ I'm a smart contract Developer
 - 🔭 I’m currently working on Smart Contracts
 - 🎯 My stack: React, Solidity, JavaScript, TypeScript
 - 💬 Ask me about Blockchain Development
-- 🍜 Twitter: [@greatsamist](https://twitter.com/greatsamist)
+- 🍜 Twitter: [@greatsamuelojo](https://twitter.com/greatsamuelojo)
 - 🍜 LinkedIn: [@greatsamuelojo](https://www.linkedin.com/in/greatsamuelojo/)
 - ⚡ Fun fact: love travelling
  
