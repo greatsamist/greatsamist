@@ -8,7 +8,9 @@ I'm a smart contract Developer
 - 🍜 LinkedIn: [@greatsamuelojo](https://www.linkedin.com/in/greatsamuelojo/)
 - ⚡ Fun fact: love travelling
  
--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greatsamist&show_icons=true&theme=blue-green)  -[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=greatsamist&theme=gotham)](https://git.io/streak-stats)  - 
+-  ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=greatsamist&show_icons=true&theme=blue-green)
+- ![Samuel's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=greatsamist&theme=blue-green)
+
 
 <!--
 **greatsamist/greatsamist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
