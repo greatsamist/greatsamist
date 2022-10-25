@@ -1,9 +1,8 @@
 c### Hi there 👋
 #### You can call me Samuel.
-I'm a smart contract Developer
-- 🔭 I’m currently working on Smart Contracts
-- 🎯 My stack: React, Solidity, JavaScript, TypeScript
-- 💬 Ask me about Blockchain Development
+I'm a full stack web developer
+- 🔭 I build Apps with a focus on simplicity, responsiveness, accessibility, and pleasing aesthetics
+- 🎯 My stack: React, JavaScript, TypeScript, Solidity
 - 🍜 Twitter: [@greatsamuelojo](https://twitter.com/greatsamuelojo)
 - 🍜 LinkedIn: [@greatsamuelojo](https://www.linkedin.com/in/greatsamuelojo/)
 - ⚡ Fun fact: love travelling
