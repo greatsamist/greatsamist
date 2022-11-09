@@ -7,7 +7,6 @@ I'm a full stack web developer
 - 🍜 LinkedIn: [@greatsamuelojo](https://www.linkedin.com/in/greatsamuelojo/)
 - ⚡ Fun fact: love travelling
  
--  ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=greatsamist&show_icons=true&theme=blue-green)
 - ![Samuel's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=greatsamist&theme=blue-green)
 
 
