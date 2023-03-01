@@ -7,8 +7,8 @@ I'm a full stack web developer
 - 🍜 LinkedIn: [@greatsamuelojo](https://www.linkedin.com/in/greatsamuelojo/)
 - ⚡ Fun fact: love travelling
  
-- ![Samuel's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=greatsamist&theme=blue-green)
-
+<!-- - ![Samuel's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=greatsamist&theme=blue-green)
+ -->
 
 <!--
 **greatsamist/greatsamist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
