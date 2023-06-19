@@ -1,12 +1,12 @@
-c### Hi there 👋
-#### You can call me Samuel.
-I'm a full stack web developer
-- 🔭 I build Apps with a focus on simplicity, responsiveness, accessibility, and pleasing aesthetics
-- 🎯 My stack: React, JavaScript, TypeScript, Solidity
-- 🍜 Twitter: [@greatsamuelojo](https://twitter.com/greatsamuelojo)
-- 🍜 LinkedIn: [@greatsamuelojo](https://www.linkedin.com/in/greatsamuelojo/)
-- ⚡ Fun fact: love travelling
- 
+<h2> Hi there 👋, I'm Samuel Ojo! </h2>
+
+[![Samuel Ojo Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/greatsamuelojo/)
+[![Samuel Ojo Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/greatsamuelojo)
+
+ I'm a front end developer passionate about crafting delightful user experiences. Welcome to my GitHub profile, where you'll find my projects, experiments, and code contributions. I specialize in building intuitive and responsive user interfaces using modern front end tools and frameworks like React, and Angular. Let's connect and create exceptional digital experiences together!
+
+#### Continuous Learning
+In the ever-evolving world of technology, I firmly believe that learning should never stop. I am constantly exploring new concepts, experimenting with different tools, and staying informed about industry best practices. I enjoy attending conferences, participating in workshops, and engaging in online courses to stay ahead of the curve.
 <!-- - ![Samuel's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=greatsamist&theme=blue-green)
  -->
 
@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### 
+ ![Samuel's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=greatsamist&theme=blue-green)
