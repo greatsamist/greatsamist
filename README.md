@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### 
- ![Samuel's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=greatsamist&theme=blue-green)
+ ![Samuel's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=greatsamist&theme=default)
